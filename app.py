@@ -4,13 +4,13 @@ from PIL import Image
 # --- GENERAL SETTINGS ---
 PAGE_TITLE = "Digital CV | "
 PAGE_ICON = ":wave:"
-NAME = "Egezon Baruti"
+NAME = "Olsa Muhaxhiri"
 DESCRIPTION = """
-Data Scientist  in spatial-sensor data and data-driven decision-making.
+Data Scientist 
 """
 
-EMAIL = "egzonbaruti@yahoo.com"
-LINKEDIN_URL = "https://www.linkedin.com/in/egezonbaruti"
+EMAIL = "olsamuhaxhiri@yahoo.com"
+LINKEDIN_URL = "https://www.linkedin.com/in/olsamuhaxhxiri"
 
 st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
 
