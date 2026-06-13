@@ -15,7 +15,7 @@ LINKEDIN_URL = "https://www.linkedin.com/in/olsamuhaxhiri"
 st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
 
 # Directly reference files in the assets folder (ensure it exists)
-resume_file = "/workspaces/digita_cv/assets/OlsaMuhaxhiriResume.pdf"
+resume_file = "assets/OlsaMuhaxhiriResume.pdf"
 profile_pic_file = "assets/Screenshot 2026-06-13 210430.png"
 
 with open(resume_file, "rb") as pdf_file:
